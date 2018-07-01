@@ -4,3 +4,7 @@
 *.sln
 *.filters
 *.user
+*.log
+*/Debug/
+*/Release/
+*/log/
